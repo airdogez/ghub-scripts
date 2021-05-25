@@ -1,0 +1,5 @@
+{
+ "name": "Media Controls",
+ "description": "Media player gestures with mouse and quick access buttons, activated using side button",
+ "fileName": "./script.lua"
+}
